@@ -1,1 +1,1 @@
-# html-resume
+A personal online resume built with HTML to showcase my professional background, education, and skills in both hospitality management and web development. This project highlights my transition from managing high-performing teams at Starbucks to pursuing a career in tech. It includes sections on work experience, education, technical skills, and contact links—styled with basic HTML structure and enhanced by embedded images and icons.
